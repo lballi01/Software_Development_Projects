@@ -1,0 +1,11 @@
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\bin\Debug\Antivirus (Basic).exe.config
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\bin\Debug\Antivirus (Basic).exe
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\bin\Debug\Antivirus (Basic).pdb
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus (Basic).csproj.AssemblyReference.cache
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus (Basic).csproj.SuggestedBindingRedirects.cache
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus__Basic_.Properties.Resources.resources
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus (Basic).csproj.GenerateResource.cache
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus (Basic).csproj.CoreCompileInputs.cache
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus (Basic).exe
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus (Basic).pdb
+C:\Users\leoni\source\repos\Antivirus (Basic)\Antivirus (Basic)\obj\Debug\Antivirus__Basic_.Text.resources
